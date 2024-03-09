@@ -1,0 +1,2 @@
+# MagicMirrorConf
+ My MagicMirror Config
